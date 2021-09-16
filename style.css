@@ -1,0 +1,24 @@
+h1{
+    color: rgb(0, 0, 0);
+    border: 10px solid rgb(179, 176, 176);
+    background-color: rgb(174, 170, 170);;
+  }
+  body{
+    background-color: #f0f0be;
+  }
+  img{
+    border: 3px solid black;
+  }
+  p{
+    font-family: comic sans ms;
+    font-weight: italic;
+    font-size: 16.3px;
+  }
+  a
+  {
+    font-size: 18px;
+  }
+  h3
+  {
+    font-size: 30px;
+  }
